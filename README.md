@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there, I'm Ritik 👋
+👨‍💻 First-Year ECE Student | Aspiring Electronics Engineer
 
-<!--
-**rithiktitan14-hub/rithiktitan14-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 About Me
+I am pursuing a Bachelor of Engineering (B.E.) in Electronics and Communication Engineering at St. Joseph's College Of Engineering, Chennai. I am deeply interested in the intersection of hardware and software, focusing on building a strong foundation in core engineering principles and computing.
 
-Here are some ideas to get you started:
+🌱 Currently Learning: C programming, foundational circuit logic, and engineering mathematics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: C programming concepts, loop structures, and basic electronics.
+
+⚡ Fun fact: I enjoy regular strength training and love solving complex puzzles.
+
+🛠 Domain Technologies & Tools
+Languages: C, Python (Core Syntax & Logic Building)
+
+Hardware Platforms: Digital Logic Design Basics
+
+Tools: Git, VS Code, Dumbbell routines (for physical fitness!)
+
+🎯 Career Roadmap
+Short-term: Master structural programming in C and excel in first-year engineering coursework.
+
+Long-term: Graduate with a B.E. in ECE and secure a professional role as an Electronics Engineer.
+
+📬 Connect With Me : rithiktitan14@gmail.com
