@@ -1,4 +1,4 @@
-Hi there, I'm Ritik 👋
+Hi there, I'm Rithik 👋
 👨‍💻 First-Year ECE Student | Aspiring Electronics Engineer
 
 📖 About Me
